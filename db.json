@@ -1,124 +1,222 @@
 {
-    "product": [
+"data":
+
+[
+    {
+        "model": "Apple iPhone 15",
+        "brand":"iPhone",
+        "mrp":"959",
+        "price":"899",
+        "image":"https://cdn.phonehouse.es/res/products-image/1/7/7/7/5/1/1777519-5029519.jpg?&w=380&h=380&trim=auto&auto=format",
+        "ram":"null",
+        "storage":"258GB",
+        "camera":"48mp"
+    },
+
+    {
+        "model": "Apple iPhone 15 Pro Max",
+        "brand":"iPhone",
+        "mrp":"1469",
+        "price":"1399",
+        "image":"https://cdn.phonehouse.es/res/products-image/1/7/7/7/5/1/1777512-5029491.jpg?&w=380&h=380&trim=auto&auto=format",
+        "ram":"null",
+        "storage":"258GB",
+        "camera":"48mp"
+    },
+    {
+        "model": "Apple iPhone 15 Plus",
+        "brand":"iPhone",
+        "mrp":"1109",
+        "price":"1049",
+        "image":"https://cdn.phonehouse.es/res/products-image/1/7/7/7/5/3/1777534-5029577.jpg?&w=380&h=380&trim=auto&auto=format",
+        "ram":"null",
+        "storage":"128GB",
+        "camera":"48mp"
+    },
+    {
+        "model": "Apple iPhone 15 Black Titanium",
+        "brand":"iPhone",
+        "mrp":"1719",
+        "price":"1619",
+        "image":"https://cdn.phonehouse.es/res/products-image/1/7/7/7/5/3/1777534-5029577.jpg?&w=380&h=380&trim=auto&auto=format",
+        "ram":"null",
+        "storage":"512GB",
+        "camera":"48mp"
+    },
+    {
+        "model": "Apple iPhone 15 Black",
+        "brand":"iPhone",
+        "mrp":"1339",
+        "price":"1269",
+        "image":"https://cdn.phonehouse.es/res/products-image/1/7/7/7/5/3/1777534-5029577.jpg?&w=380&h=380&trim=auto&auto=format",
+        "ram":"null",
+        "storage":"512GB",
+        "camera":"48mp"
+    },
+
+    
+    {
+        "model": "Samsung Galaxy A23",
+        "brand":"Samsung",
+        "mrp":"329",
+        "price":"",
+        "image":"https://cdn.phonehouse.es/res/products-image/1/6/1/5/7/6/1615763-4681329.jpg?&w=380&h=380&trim=auto&auto=format",
+        "ram":"5GB",
+        "storage":"128GB",
+        "camera":"48mp"
+    },
+
+    {
+        "model": "Samsung Galaxy Z Flip5",
+        "brand":"Samsung",
+        "mrp":"1209",
+        "price":"1149",
+        "image":"https://cdn.phonehouse.es/res/products-image/1/7/7/0/1/4/1770148-5013099.jpg?&w=380&h=380&trim=auto&auto=format",
+        "ram":"8GB",
+        "storage":"128GB",
+        "camera":"48mp"
+    },
+
         {
-            "img": "https://www.claroshop.com/c/star-wars-day/img/categorias/TAZAS_CATEGORIAS_STAR_WARS.png",
-            "name": "Trooper taza",
-            "price": "$60.00",
-            "Description": "Taza casco Trooper",
-            "category": "starwars",
-            "id": 1
+            "model": "Samsung Galaxy Z Fold5",
+            "brand":"Samsung",
+            "mrp":"1909",
+            "price":"1799",
+            "image":"https://cdn.phonehouse.es/res/products-image/1/7/7/0/4/0/1770404-5013161.jpg?&w=380&h=380&trim=auto&auto=format",
+            "ram":"12GB",
+            "storage":"256GB",
+            "camera":"48mp"
+        },
+
+        {
+            "model": "Samsung Galaxy Z Fold5 Green",
+            "brand":"Samsung",
+            "mrp":"1209",
+            "price":"1149",
+            "image":"https://cdn.phonehouse.es/res/products-image/1/7/7/0/1/4/1770148-5013099.jpg?&w=380&h=380&trim=auto&auto=format",
+            "ram":"8GB",
+            "storage":"256GB",
+            "camera":"48mp"
+        },
+
+        {
+            "model": "Samsung Galaxy Z Fold5 Cream",
+            "brand":"Samsung",
+            "mrp":"2029",
+            "price":"1999",
+            "image":"https://cdn.phonehouse.es/res/products-image/1/7/7/0/5/3/1770534-5013179.jpg?&w=380&h=380&trim=auto&auto=format",
+            "ram":"12GB",
+            "storage":"512GB",
+            "camera":"48mp"
         },
         {
-            "img": "https://cdn1.coppel.com/images/catalog/mkp/1773/5000/17733590-1.jpg",
-            "name": "Funko Vader",
-            "price": "$60.00",
-            "Description": "Funko coleccionable Darth vader",
-            "category": "starwars",
-            "id": 2
+            "model": "Samsung Galaxy S23 ültra",
+            "brand":"Samsung",
+            "mrp":"1409",
+            "price":"1299",
+            "image":"https://cdn.phonehouse.es/res/products-image/1/7/2/0/2/9/1720295-4892683.jpg?&w=380&h=380&trim=auto&auto=format",
+            "ram":"8GB",
+            "storage":"256GB",
+            "camera":"48mp"
         },
+
         {
-            "img": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA12N6pr.img?w=500&h=500&m=6",
-            "name": "Grogu (Baby Yoda)",
-            "price": "$100.00",
-            "Description": "Grogu peluche electrónico",
-            "category": "starwars",
-            "id": 3
+            "model": "OPPO A57s",
+            "brand":"OPPO",
+            "mrp":"209",
+            "price":"139",
+            "image":"https://cdn.phonehouse.es/res/products-image/1/6/7/5/9/1/1675910-4812764.jpg?&w=380&h=380&trim=auto&auto=format",
+            "ram":"128GB",
+            "storage":"4GB",
+            "camera":"48mp"
         },
-        {
-            "img": "https://cdn.shopify.com/s/files/1/0563/9831/5692/files/luke-skywalker-lightsaber-hilt.png?v=1656863305",
-            "name": "Lightsaber",
-            "price": "$3000.00",
-            "Description": "Sable de luz para duelos",
-            "category": "starwars",
-            "id": 4
-        },
-        {
-            "img": "https://tooys.mx/media/wysiwyg/Darth_Vader-estatua-premium-format-por-sideshow-19.png",
-            "name": "Darth Vader",
-            "price": "$450.00",
-            "Description": "DarDarth  Vader figura de coleción",
-            "category": "starwars",
-            "id": 5
-        },
-        {
-            "img": "https://www.cibermoda.mx/assets/images/craft_images/productos/Consola-Retro-Portatil-X12-Plus-pantalla-7-pulgadas-color-rojo-azul-joystick.webp",
-            "name": "X12 Plus",
-            "price": "$4500.00",
-            "Description": "consola portatil, 16 Gb de RAM",
-            "category": "consolas",
-            "id": 1
-        },
-        {
-            "img": "https://revistasociosams.com/wp-content/uploads/2021/03/control-inalambrico-Xbox%E2%80%8B-1.png",
-            "name": "Control Xbox One",
-            "price": "$950.00",
-            "Description": "Control Xbox serie One",
-            "category": "consolas",
-            "id": 2
-        },
-        {
-            "img": "https://www.incentivosblackhawk.com.mx/wp-content/uploads/2022/05/Steam.png",
-            "name": "Steam Card",
-            "price": "$200.00",
-            "Description": "steam card 200 pelucholares",
-            "category": "consolas",
-            "id": 3
-        },
-        {
-            "img": "https://www.techpowerup.com/review/scuf-impact-controller-ps4-pc/images/small.png",
-            "name": "Control usb",
-            "price": "$500.00",
-            "Description": "Control de china",
-            "category": "consolas",
-            "id": 4
-        },
-        {
-            "img": "https://virtumaniacos.com/wp-content/uploads/2022/03/playstation-vr-visor.webp",
-            "name": "Oculus Quest 2 ",
-            "price": "$4500.00",
-            "Description": "Su versatilidad nos va a permitir usarlas en formato Standalone, es decir no depende de ningún otro elemento como cámaras o hardware externo, y esto las ha convertido el las gafas VR más vendidas desde 2020. Incluso puedes conectarlas a un ordenador (opcional) por cable o por wifi para jugar a juegos y usar aplicaciones aún más exigentes. ",
-            "category": "consolas",
-            "id": 5
-        },
-        {
-            "img": "https://otakutienda.com/cdn/shop/products/IMG_5186_580x.png?v=1644943571",
-            "name": "Pikachu Itachi  edition",
-            "price": "$500.00",
-            "Description": "Edición especial Pikachu Itachi  anbu",
-            "category": "diversos",
-            "id": 1
-        },
-        {
-            "img": "https://ggezstore.net/wp-content/uploads/2021/12/DEADPOOL-PIKACHU-e1640658722195.png",
-            "name": "Pikachu Deadpool",
-            "price": "$250.00",
-            "Description": "Pikachu edición deadpool",
-            "category": "diversos",
-            "id": 2
-        },
-        {
-            "img": "https://cdn.shopify.com/s/files/1/2437/4099/products/spider-man_marvel_silo_480x672.png?v=1649713239",
-            "name": "Spiderman Hot Toys",
-            "price": "$660.00",
-            "Description": "Hot Toys CosRider: Marvel Spider Man Far From Home - Spider Man — Distrito Max",
-            "category": "diversos",
-            "id": 3
-        },
-        {
-            "img": "https://www.panupli.es/3364-large_default/funko-pop-es-dla-gandalf-montado-en-gwaihir.jpg",
-            "name": "Funko Gandalf en Gwaihir",
-            "price": "$600.00",
-            "Description": "Colecciona el Funko POP de Gandalf montado en el águila Gwaihir de las increíbles películas de El Señor de los Anillos",
-            "category": "diversos",
-            "id": 4
-        },
-        {
-            "img": "https://lemongamesmx.com/cdn/shop/products/fun55641-dragon-ball-z-cell-first-form-glow-in-the-dark-pop-vinyl-figure-popcultcha-01_480x480.png?v=1661980008",
-            "name": "Cell DBZ",
-            "price": "$450.00",
-            "Description": "Cell primera forma, retroiluminado",
-            "category": "diversos",
-            "id": 5
-        }
-    ]
+    {
+        "model": "OPPO A17",
+        "brand":"OPPO",
+        "mrp":"",
+        "price":"119",
+        "image":"https://cdn.phonehouse.es/res/products-image/1/6/7/5/7/0/1675707-5091518.jpg?&w=380&h=380&trim=auto&auto=format",
+        "ram":"64GB",
+        "storage":"4GB",
+        "camera":"48mp"
+    },
+
+    {
+        "model": "OPPO A98",
+        "brand":"OPPO",
+        "mrp":"",
+        "price":"299",
+        "image":"https://cdn.phonehouse.es/res/products-image/1/7/5/4/2/9/1754290-4966816.jpg?&w=380&h=380&trim=auto&auto=format",
+        "ram":"256GB",
+        "storage":"8GB",
+        "camera":"48mp"
+    },
+
+    {
+        "model": "Redmi Note 10",
+        "brand":"Xiaomi",
+        "mrp":"249",
+        "price":"179",
+        "image":"https://cdn.phonehouse.es/res/products-image/1/2/5/4/5/6/1254563-3910496.jpg?&w=380&h=380&trim=auto&auto=format",
+        "ram":"4GB",
+        "storage":"64GB",
+        "camera":"48mp"
+    },
+
+    {
+        "model": "Poco X4 Pro",
+        "brand":"Xiaomi",
+        "mrp":"",
+        "price":"296.40",
+        "image":"https://cdn.phonehouse.es/res/products-image/1/5/1/0/8/4/1510847-4431359.jpg?&w=380&h=380&trim=auto&auto=format",
+        "ram":"4GB",
+        "storage":"128GB",
+        "camera":"48mp"
+    },
+         
+    {
+        "model": "ZTE Blade V40",
+        "brand":"ZTE",
+        "mrp":"201",
+        "price":"109",
+        "image":"https://cdn.phonehouse.es/res/products-image/1/6/3/1/5/4/1631543-4873508.jpg?&w=380&h=380&trim=auto&auto=format",
+        "ram":"4GB",
+        "storage":"128GB",
+        "camera":"48mp"
+    },
+
+    {
+        "model": "ZTE Blade A73",
+        "brand":"ZTE",
+        "mrp":"149",
+        "price":"129",
+        "image":"https://cdn.phonehouse.es/res/products-image/1/7/7/6/0/7/1776077-5027361.jpg?&w=380&h=380&trim=auto&auto=format",
+        "ram":"6GB",
+        "storage":"128GB",
+        "camera":"48mp"
+    },
+    {
+        "model": "Vivo Y36 Gold",
+        "brand":"Vivo",
+        "mrp":"299",
+        "price":"219",
+        "image":"https://cdn.phonehouse.es/res/products-image/1/7/7/0/1/3/1770131-5008284.jpg?&w=380&h=380&trim=auto&auto=format",
+        "ram":"8GB",
+        "storage":"256GB",
+        "camera":"48mp"
+    },
+
+    {
+        "model": "TCL 40 SE",
+        "brand":"TCL",
+        "mrp":"169",
+        "price":"129",
+        "image":"https://cdn.phonehouse.es/res/products-image/1/7/4/0/8/3/1740839-4927791.jpg?&w=380&h=380&trim=auto&auto=format",
+        "ram":"4GB",
+        "storage":"128GB",
+        "camera":"48mp"
+    }
+
+
+]
 }
